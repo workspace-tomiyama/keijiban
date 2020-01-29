@@ -1,0 +1,37 @@
+body {
+	font-family: "メイリオ", sans-serif;
+}
+
+h1 {
+	width: 550px;
+	background-color: #fbfbfb;
+	border-left: solid 5px red;
+	font-size: 20px;
+	padding: 5px 10px 5px 15px;
+}
+
+form {
+	width: 500px;
+	height: auto;
+	background-color: #fbfbfb;
+	border-radius: 10px;
+	border:solid 5px #ebebeb;
+	margin: 10px;
+	padding: 20px;
+}
+
+.text {
+	border: 1px solid #dfdfdf;
+	padding: 5px;
+	color: #999;
+	background: #fff;
+}
+
+.submit {
+	color: white;
+	background-color: #bfbfbf;
+	border: solid 1px lightgray;
+	border-radius: 5px;
+	border-bottom: solid 2px gray;
+	padding: 4px 10px;
+}
